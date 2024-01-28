@@ -1,4 +1,4 @@
-[linkedin]: https://www.linkedin.com/in/konstantinos-kaminaris-40640b152/
+[linkedin]: https://www.linkedin.com/in/konstantinos-kaminaris/
 [gmail]: mailto:kaminariskonstantinos@gmail.com
 
 <!--
