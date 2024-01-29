@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 languages: Javascript, Python, C, bash, MATLAB
 OS: Ubuntu, Windows
 editors: Vim, neovim, VSCode
-  - other: LaTeX, html, css, git
+  - other: git, LaTeX, html, css, markdown
 ```
 
 <!--- <p align="center">
