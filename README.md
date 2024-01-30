@@ -1,5 +1,5 @@
 [linkedin]: https://www.linkedin.com/in/konstantinos-kaminaris/
-[gmail]: mailto:kkaminaris@gmail.com
+[gmail]: mailto:kaminariskonstantinos@gmail.com
 
 <!--
 **KaminarisKonstantinos/KaminarisKonstantinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,9 +38,9 @@ editors: Vim, neovim, VSCode
 ```
 
 <!--- <p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kaminariskonstantinos&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kkaminaris&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
 </p> --->
 
 <p align="center">
-          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaminariskonstantinos&layout=compact&theme=dracula&hide_border=true"/>
+          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaminaris&layout=compact&theme=dracula&hide_border=true"/>
 </p>
