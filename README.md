@@ -1,5 +1,5 @@
 [linkedin]: https://www.linkedin.com/in/konstantinos-kaminaris/
-[gmail]: mailto:kaminariskonstantinos@gmail.com
+[gmail]: mailto:kkaminaris@gmail.com
 
 <!--
 **KaminarisKonstantinos/KaminarisKonstantinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
