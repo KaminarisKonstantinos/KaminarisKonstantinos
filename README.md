@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ```yaml
 languages: Javascript, Python, C, bash, MATLAB
-OS: Ubuntu, Windows
+OS: Linux, Windows
 editors: Vim, neovim, VSCode
   - other: git, LaTeX, html, css, markdown
 ```
